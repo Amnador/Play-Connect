@@ -23,7 +23,7 @@ O **PlayConnect** é um marketplace que conecta **desenvolvedores indie** e **st
 ## Como Rodar o Projeto
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/playconnect.git
+   git clone https://github.com/Amnador/Play-Connect.git
    ```
 2. Entre na pasta do projeto:
    ```bash
